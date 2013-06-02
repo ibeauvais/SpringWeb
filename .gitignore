@@ -1,0 +1,13 @@
+ass
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+target/
+
+*.iml
+*.ipr
+*.iws
+.idea/
